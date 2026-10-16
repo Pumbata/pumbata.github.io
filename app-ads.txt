@@ -1,0 +1,2 @@
+# app-ads.txt for Mc Gaming Studio (AdMob publisher ID)
+google.com, pub-9144543690828323, DIRECT, f08c47fec0942fa0
